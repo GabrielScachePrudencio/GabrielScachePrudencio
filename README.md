@@ -2,9 +2,9 @@
 
 ### Olá! 👋 Bem-vindo ao meu perfil!
 
-Sou Gabriel Scache Prudencio, desenvolvedor apaixonado por tecnologia e programação. Trabalho principalmente com **HTML**, **CSS**, **JavaScript** e **C**. Estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades com projetos práticos.
+Sou Gabriel Scache Prudencio, Estudante e desenvolvedor. Trabalho principalmente com **HTML**, **CSS**, **JavaScript** e **C**.
 
-## 🚀 Tecnologias que uso:
+## Tecnologias que uso:
 
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
