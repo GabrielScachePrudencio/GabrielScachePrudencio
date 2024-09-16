@@ -20,4 +20,4 @@ Sou Gabriel Scache Prudencio, estudante e desenvolvedor. Trabalho principalmente
 
 ## 📫 Entre em contato comigo:
 - **Email**: bielscache@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/GabrielScachePrudencio/)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-scache-5678492b0/details/skills/)
