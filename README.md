@@ -13,6 +13,11 @@ Sou Gabriel Scache Prudencio, estudante e desenvolvedor. Trabalho principalmente
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="25"/>
 </p>
 
+### 🌱 Atualmente, estou aprendendo:
+- Estou iniciando em **Java**.
+- **JavaScript** mais avançado.
+- Aprofundando meus conhecimentos em **C**.
+
 ## 📫 Entre em contato comigo:
 - **Email**: bielscache@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/GabrielScachePrudencio/)
