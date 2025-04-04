@@ -4,6 +4,8 @@
 
 Sou Gabriel Scache Prudencio, estudante e desenvolvedor. Trabalho principalmente com **HTML**, **CSS**, **JavaScript** e **C**.
 
+🔗 [Clique aqui para visitar meu portfólio!](https://portifolio-cylfjj2r4-gabriel-scaches-projects.vercel.app)
+
 ## Tecnologias que uso:
 
 <p align="left">
