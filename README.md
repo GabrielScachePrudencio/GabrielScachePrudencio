@@ -7,7 +7,7 @@ Sou Gabriel Scache Prudencio, estudante e desenvolvedor. Trabalho principalmente
 ## Tecnologias que uso:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React" height="25"/>
+  <img src="https://img.shields.io/badge/React-%238A2BE2.svg?style=flat-square&logo=react&logoColor=white" alt="React" height="25"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java" height="25"/>
   <img src="https://img.shields.io/badge/Python-%23FFD43B.svg?style=flat-square&logo=python&logoColor=black" alt="Python" height="25"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" height="25"/>
