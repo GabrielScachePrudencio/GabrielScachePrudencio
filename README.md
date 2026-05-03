@@ -17,8 +17,21 @@ Sou Gabriel Scache Prudencio, estudante e desenvolvedor. Trabalho principalmente
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="25"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="25"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="25"/>
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" height="25"/>
 </p>
 
+## 🚀 Projeto em destaque
+
+Desenvolvi um sistema integrado entre Android e Arduino utilizando Bluetooth (HC-05), inspirado no jogo Genius.
+
+O aplicativo (Kotlin + Jetpack Compose) envia sequências de comandos, enquanto o Arduino executa o desafio com botões físicos e LEDs, retornando o resultado em tempo real.
+
+### 🔧 Tecnologias utilizadas:
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" height="25"/>
+</p>
 
 </p>
 
