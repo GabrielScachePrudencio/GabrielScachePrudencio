@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Gabriel Scache 👋</h1>
+# Olá, eu sou o Gabriel Scache 👋
 
 <p align="center">
-  Desenvolvedor em formação, focado em <b>back-end com Java Spring Boot e C# ASP.NET</b> e em interfaces com <b>React e Angular</b>.
+  Desenvolvedor em formação, focado em <b>back-end com Java Spring Boot e C# ASP.NET</b> e em interfaces com <b>React e Angular</b>, além de interessado em <b>Mineração de Dados e Machine Learning</b>.
 </p>
 
 <p align="center">
@@ -41,6 +41,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="25"/>
 </p>
 
+**Mineração de Dados**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="25"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="25"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="25"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" height="25"/>
+  <img src="https://img.shields.io/badge/Orange%20Data%20Mining-FF8C00?style=flat-square" alt="Orange Data Mining" height="25"/>
+</p>
+
 **Mobile, dados e outras linguagens**
 
 <p>
@@ -57,14 +67,22 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" height="25"/>
 </p>
 
-## 🚀 Projeto em destaque: ADRA
+## 🚀 Projetos em destaque: ADRA
 
 > ✏️ **Preencha:** em 2 ou 3 linhas, diga o que o ADRA faz, para quem ele é e qual foi a sua parte no projeto.
 
 | Camada | Repositório | Tecnologias |
 | --- | --- | --- |
-| 🌐 Front-end | [adra-web](https://github.com/ifsp-adra-araraquara/adra-web)
-| ⚙️ Back-end (API) | [adra-api](https://github.com/GabrielScachePrudencio/adra-api) 
+| 🌐 Front-end | [adra-web](https://github.com/ifsp-adra-araraquara/adra-web) | Angular |
+| ⚙️ Back-end (API) | [adra-api](https://github.com/GabrielScachePrudencio/adra-api) | Java, Spring Boot |
+
+### 📊 Análise do Impacto das Lesões no Futebol
+
+Projeto de análise de dados envolvendo registros de lesões de jogadores de clubes ingleses da Premier League, explorando informações dos jogadores, características das lesões e desempenho das equipes.
+
+O trabalho envolve preparação e transformação dos dados, análise exploratória e aplicação de modelos de Machine Learning.
+
+[Repositório no GitHub](https://github.com/GabrielScachePrudencio/Medindo-Impacto-Das-Lesoes-Futebol)
 
 ## 🔧 Outros projetos
 
